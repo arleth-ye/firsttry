@@ -1,0 +1,6 @@
+p:focus{
+    color: greenyellow;
+
+} a:active{
+    color:brown;
+}
